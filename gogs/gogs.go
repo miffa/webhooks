@@ -12,7 +12,7 @@ import (
 	"crypto/sha256"
 	"encoding/hex"
 
-	client "github.com/gogits/go-gogs-client"
+	client "github.com/gogs/go-gogs-client"
 )
 
 // parse errors
